@@ -9,7 +9,7 @@ No names but if you've worked at NextGen
 you know what i'm talking about.
 
 Tools I used during my bug bounty days
-are over at github.com/ctfnn/bb-recon-helpers
+are over at (I deleted link, maybe in previous version?)
 
 — ctfnn | June 2024
 // EOF
